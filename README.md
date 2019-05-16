@@ -23,17 +23,18 @@ root could be any other node like objects
   </root>
 ```
   
-program will produce output JSON file:
+program will produce output JSON file, example:
 ```json
   {
-    "object name" : {
-      "field name": "field value",
-      
-      ... other fields
-    
+    "object 1 name" : {
+      "field 1 name": "field value",
+      "field 2 name": "other field value",
+      "field with int val": 23
     },
-    
-    ... other objects
-    
+    "object 2 name" : {
+      "lol field": "lol",
+      "pikachu": "pika pika",
+      "wery stronk swort od deztruktion": 99999999
+    }
   }
 ```
