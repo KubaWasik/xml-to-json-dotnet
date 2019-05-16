@@ -3,7 +3,8 @@
 program use .Net Core 2.2 App and Newtonsoft.Json package
 
 Valid XML to convert should look like:
---root could be any other node like objects
+root could be any other node like objects
+```xml
   <root>
     <object>
       <obj_name> object name </obj_name>
@@ -20,8 +21,10 @@ Valid XML to convert should look like:
     ... other objects
     
   </root>
+```
   
 program will produce output JSON file:
+```json
   {
     "object name" : {
       "field name": "field value",
@@ -33,3 +36,4 @@ program will produce output JSON file:
     ... other objects
     
   }
+```
