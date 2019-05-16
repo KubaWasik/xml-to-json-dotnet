@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object>
+    <obj_name>hero_profile 1</obj_name>
+    <field>
+      <name>favorite_fruit</name>
+      <type>string</type>
+      <value>Truskawa</value>
+    </field>
+    <field>
+      <name>hero_name</name>
+      <type>string</type>
+      <value>batman</value>
+    </field>
+    <field>
+      <name>age</name>
+      <type>int</type>
+      <value>32</value>
+    </field>
+  </object>
+  <object>
+    <obj_name>hero_profile Z</obj_name>
+    <field>
+      <name>favorite_fruit</name>
+      <type>string</type>
+      <value>Kokos</value>
+    </field>
+    <field>
+      <name>hero_name</name>
+      <type>string</type>
+      <value>Tomy Lee Jonse w sciganym</value>
+    </field>
+    <field>
+      <name>age</name>
+      <type>int</type>
+      <value>47</value>
+    </field>
+  </object>
+  <object>
+    <obj_name>kolorowe kredki 1</obj_name>
+    <field>
+      <name>kolor</name>
+      <type>string</type>
+      <value>fuksja</value>
+    </field>
+  </object>
+  <object>
+    <obj_name></obj_name>
+  </object>
+  <object>
+    <obj_name>kolorowe kredki B</obj_name>
+    <field>
+      <name>kolor</name>
+      <type>string</type>
+    </field>
+    <lolfield>lol"</lolfield>
+    <field>
+      <name>kolor</name>
+      <type>int</type>
+      <value>42</value>
+    </field>
+  </object>
+  <object>
+    <obj_name>Buty Plytowe Ogolnego Gniewu i Zniszczenia</obj_name>
+    <field>
+      <name>Armor</name>
+      <type>int</type>
+      <value>12</value>
+    </field>
+  </object>
+  <object>
+    <obj_name>Zły obiekt</obj_name>
+    <field>
+      <name>Nazwa</name>
+      <type>float</type>
+      <value>33.786547</value>
+    </field>
+  </object>
+  <object>
+    <obj_name>Pusty</obj_name>
+    <field></field>
+  </object>
+  <object>
+    <obj_name>nie poprawne pola</obj_name>
+    <fieeeeld>
+      <name>name</name>
+      <type>int</type>
+      <value>-9999</value>
+    </fieeeeld>
+    <field>
+      <name>None</name>
+      <type>string</type>
+      <value>None</value>
+    </field>
+  </object>
+  <object>
+    <obj_name>check escape chars</obj_name>
+    <field>
+      <name>nazw\na pola \a\n\s\t\r &amp; &#13; &#10;></name>
+      <type>  string  </type>
+      <value>wartość pola</value>
+    </field>
+  </object>
+  <object>
+    <obj_name>wrong type</obj_name>
+    <field>
+      <name>string or int?</name>
+      <type>int</type>
+      <value>one million</value>
+    </field>
+  </object>
+  <object>
+    <obj_name>object name</obj_name>
+    <field>
+      <name>int field name</name>
+      <typee>int</typee>
+        <value>1</value>
+      </field>
+    <field>
+      <name>string field name</name>
+      <typee>string</typee>
+        <value>str</value>
+      </field>
+  </object>
+</objects>

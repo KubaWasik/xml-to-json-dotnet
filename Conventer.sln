@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLtoJSON", "XMLtoJSON\XMLtoJSON.csproj", "{FBA00C80-B485-4E00-ADC1-1FF4FA2E79C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XMLtoJSON", "XMLtoJSON\XMLtoJSON.csproj", "{FBA00C80-B485-4E00-ADC1-1FF4FA2E79C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLtoJSON.tests", "XMLtoJSON.tests\XMLtoJSON.tests.csproj", "{D15FAE42-FB79-4586-8DAA-33C8EF084047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FBA00C80-B485-4E00-ADC1-1FF4FA2E79C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBA00C80-B485-4E00-ADC1-1FF4FA2E79C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBA00C80-B485-4E00-ADC1-1FF4FA2E79C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15FAE42-FB79-4586-8DAA-33C8EF084047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15FAE42-FB79-4586-8DAA-33C8EF084047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15FAE42-FB79-4586-8DAA-33C8EF084047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15FAE42-FB79-4586-8DAA-33C8EF084047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
